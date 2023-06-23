@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+img{
+	width:400px;
+	height:300px;
+}
+.hero{
+	display:flex;
+}
+.read{
+	padding:20px;
+	text-align:center;
+	
+}
+a{
+	background-color:red;
+	text-decoration:none;
+	color:white;
+	padding:10px;
+	border-radius:5px;
+}
+p{
+	padding-bottom:20px;
+}
