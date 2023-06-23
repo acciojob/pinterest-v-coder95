@@ -2,9 +2,10 @@
 img{
 	width:400px;
 	height:300px;
+	object-fit:cover;
 }
 .image{
-	object-fit:cover;
+	
 }
 .hero{
 	display:flex;
