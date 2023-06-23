@@ -3,6 +3,9 @@ img{
 	width:400px;
 	height:300px;
 }
+.image{
+	object-fit:cover;
+}
 .hero{
 	display:flex;
 }
